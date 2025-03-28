@@ -114,5 +114,3 @@ def chat():
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=5001, debug=True)
-
-print("✅ API KEY FOUND:", os.environ.get("OPENAI_API_KEY"))
