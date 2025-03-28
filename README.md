@@ -97,7 +97,3 @@ Contributions are welcome! Feel free to fork the repository, submit pull request
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 Source of dataset: https://www.kaggle.com/datasets/himanshukumar7079/menstural-cycle-lengtg 
-
----
-
-**CycleGPT aims to empower individuals with accurate, personalized menstrual health insights, fostering a more informed and comfortable experience.**
